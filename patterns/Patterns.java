@@ -312,13 +312,13 @@ public static void main(String[] args)
 }
 }
 Output:
-        *
+      *
     * * *
   * * * * *
 * * * * * * *
   * * * * *
     * * *
-       * */
+      * */
   //Pattern-13         
   /*class Patterns
  {
@@ -354,7 +354,7 @@ for (int i = n - 2; i >= 0; i--)
     }
 }
 Output:
-    *
+   *
   * *
  *   *
 *     *
@@ -470,11 +470,11 @@ System.out.println();
 }
 Output:
 *  *  *  *  *  *  *
-*         *           *
-*         *           *
+*        *        *
+*        *        *
 *  *  *  *  *  *  *
-*         *          *
-*         *          *
+*        *        *
+*        *        *
 *  *  *  *  *  *  *   */
 
 
